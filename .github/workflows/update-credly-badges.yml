@@ -1,0 +1,25 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # codziennie o północy UTC
+  workflow_dispatch: # pozwala uruchomić ręcznie
+
+jobs:
+  update-readme-with-badges:
+    name: Update Readme with Credly Badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Update badges from Credly
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: 'mateusz-staszkow'
+          CREDLY_SORT: 'RECENT'
+          BADGE_SIZE: 110
+          NUMBER_LAST_BADGES: 0
+          COMMIT_MESSAGE: 'chore: Update Credly badges in README'
