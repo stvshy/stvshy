@@ -33,7 +33,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 
 ## 🛠️ Tech Stack
 
-### Languages & Core Web
+### Languages & Core Technologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++" />
@@ -45,6 +45,8 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/assembler.png?raw=true" width="40" alt="Assembly Language" title="Assembly Language" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/vhdl-code-file-icon.png?raw=true" width="40" alt="VHDL" title="VHDL" />
 </div>
 
 ### Frameworks & Libraries
@@ -79,7 +81,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" alt="CLion" title="CLion" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" title="Visual Studio" />
-  <img src="https://www.keil.com/img/mdk.png" width="40" alt="Keil µVision" title="Keil µVision" /> <!-- Zewnętrzny link, jeśli masz asset, podmień -->
+  <img src="https://github.com/stvshy/stvshy/blob/main/keiluvision5.png?raw=true" width="40" alt="Keil µVision 5" title="Keil µVision 5" />
   <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" width="40" alt="Xilinx" title="Xilinx" /> <!-- Zewnętrzny link, jeśli masz asset, podmień -->
 </div>
 
@@ -99,7 +101,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" title="Photoshop" />
   <img src="https://github.com/stvshy/stvshy/blob/main/Lightroom.png?raw=true" width="40" alt="Lightroom" title="Lightroom" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" alt="MATLAB" title="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/virtualbox/virtualbox-original.svg" width="40" alt="VirtualBox" title="VirtualBox" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/virtualbox.png?raw=true" width="40" alt="VirtualBox" title="VirtualBox" />
 </div>
 
 <p align="center">
