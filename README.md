@@ -33,51 +33,83 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages & Core Web
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
 </div>
 
-### Web & Mobile Development
+### Frameworks & Libraries
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" title="React" />
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" alt="Vite" title="Vite" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/expo-seeklogo.png?raw=true" width="40" alt="Expo" title="Expo" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/JavaFX.png?raw=true" width="40" alt="JavaFX" title="JavaFX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" width="40" alt="OpenGL" title="OpenGL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" alt="Godot Engine" title="Godot Engine" />
 </div>
 
-### Databases & Cloud
+### Databases, Cloud & DevOps
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" alt="Oracle" title="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40" alt="Terraform" title="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
 </div>
 
-### Tools & Design
+### IDEs & Development Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" title="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" alt="CLion" title="CLion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://www.keil.com/img/mdk.png" width="40" alt="Keil µVision" title="Keil µVision" /> <!-- Zewnętrzny link, jeśli masz asset, podmień -->
+  <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" width="40" alt="Xilinx" title="Xilinx" /> <!-- Zewnętrzny link, jeśli masz asset, podmień -->
+</div>
+
+### Testing, Analysis & Modeling Tools
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="40" alt="JUnit" title="JUnit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" alt="Selenium" title="Selenium" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/weka.png?raw=true" width="40" alt="Weka" title="Weka" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/FitNesse.png?raw=true" width="40" alt="FitNesse" title="FitNesse" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/Visual%20Paradigm.png?raw=true" width="40" alt="Visual Paradigm" title="Visual Paradigm" />
+  <!-- JMockit: Brak łatwo dostępnej, prostej ikony -->
+</div>
+
+### Design & Other Software
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" title="Photoshop" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/Lightroom.png?raw=true" width="40" alt="Lightroom" title="Lightroom" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" alt="MATLAB" title="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/virtualbox/virtualbox-original.svg" width="40" alt="VirtualBox" title="VirtualBox" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="75%">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="150%">
 </p>
 
 ## 🏆 Certifications
 
-
+- [**CCNA: Introduction to Networks**](https://www.credly.com/badges/9719de3d-0a39-41ad-b203-0c2f3cce6ab7/public_url)  
+  *Cisco Networking Academy*
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
@@ -96,7 +128,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="5%">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="3%">
 </p>
 
 ## 🌐 Socials
