@@ -51,13 +51,13 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 
 ### Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" title="React" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" title="React Native" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/React-Native2.png?raw=true" width="45" alt="React Native" title="React Native" />
+   <img src="https://github.com/stvshy/stvshy/blob/main/React.png?raw=true" width="41" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" alt="Vite" title="Vite" />
       <img src="https://github.com/stvshy/stvshy/blob/main/expo.png?raw=true" width="40" alt="Expo" title="Expo" />
-  <img src="https://github.com/stvshy/stvshy/blob/main/JavaFX.png?raw=true" width="45" alt="JavaFX" title="JavaFX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" alt="Godot Engine" title="Godot Engine" />
+    <img src="https://github.com/stvshy/stvshy/blob/main/JavaFX.png?raw=true" width="45" alt="JavaFX" title="JavaFX" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="42" alt="Node.js" title="Node.js" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" width="45" alt="OpenGL" title="OpenGL" />
 </div>
