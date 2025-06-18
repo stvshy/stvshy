@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  Full-Stack / Mobile Developer
+  Mobile / Full-Stack Developer
 </p>
 
 <p align="center">
