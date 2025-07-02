@@ -112,6 +112,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 - [**CCNA: Introduction to Networks**](https://www.credly.com/badges/9719de3d-0a39-41ad-b203-0c2f3cce6ab7/public_url)  
   *Cisco Networking Academy*
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/9719de3d-0a39-41ad-b203-0c2f3cce6ab7" title="CCNA: Introduction to Networks"><img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <!-- Dodaj kolejne certyfikaty w podobny sposób -->
