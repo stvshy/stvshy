@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" />
 </div>
 
-<br><br>
+<br>
 
 I graduated in Computer Engineering from Wrocław University of Science and Technology (WUST) 🎓 and I'm currently pursuing my master’s degree in Applied Computer Science at WUST. 💻👨‍🎓 I love coding and designing intuitive applications, but outside of programming, I’m also into travelling 🌍, music production 🎵, sports ⚽🥊 (huge FC Barcelona & MMA fan), and collecting perfumes.
 
@@ -12,7 +12,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 * ✉️  You can contact me at [matisp637@gmail.com](mailto:matisp637@gmail.com)
 * ⚡  Fun fact: I have an expensive addiction - I just can’t resist buying more perfumes to expand my collection 🤫
   
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://stvshy.com"><img src="stvshy-button4.svg" width="150" alt="Visit STVSHY Portfolio" /></a><br>
