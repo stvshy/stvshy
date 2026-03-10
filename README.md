@@ -1,6 +1,6 @@
 <div align="center">
   <samp>💻 Mobile / Full-Stack</samp> <br>
- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="620" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="610" />
 </div>
 
 <br>
