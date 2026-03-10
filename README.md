@@ -1,7 +1,7 @@
 <div align="center">
  <div align="center">
   <img src="https://img.shields.io/badge/Mobile-4a148c?style=flat&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Full--Stack-0277bd?style=flat&logo=skypack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full--Stack-0277bd?style=flat&logo=effect&logoColor=white" />
 </div> <br>
  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="630" /> 
 </div>
@@ -24,16 +24,19 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 ## 🔭 My Biggest Projects
 
 - [**Tripify**](https://github.com/stvshy/tripify) — My most ambitious project to date, a comprehensive travel companion application. Tripify empowers users to visually track and manage their visited countries through an interactive world map and detailed lists, explore rich country profiles packed with information on general facts, weather, travel tips, and safety, and engage with a community by adding friends, managing friend requests, and searching for other users. It also offers personalization features such as custom country rankings, country-specific note-taking, and a light/dark theme system, all supported by secure authentication via email/password (including email verification and password reset) and Facebook login. I am planning to release the application first on the Google Play Store for Android, followed by an iOS version on the App Store. The application is built using React Native with Expo, and utilizes Firebase for its backend services and data management.
-  <br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+   <br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 - [**Web Chatt App**](https://github.com/stvshy/chat-app-aws) — A web messenger-like application for chatting with other users, sending files and notifications. The system is split into microservices (each with its own database) and built using AWS, Docker, Terraform, Java (Spring Boot), and TypeScript.
-  <br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+  <br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=icloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 
 - [**Hollow Depths**](https://github.com/jonasz-lazar-pwr/hollow-depths-game) — 2D pixel-art platformer made in Godot 4.4. Mine underground for resources, manage limited tools, and upgrade your gear in a surface shop. Combines exploration, digging, and strategic resource management. You can play our game here: 👉 [**Click to play!**](https://stvshy.short.gy/game2D)
-  <br>![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+ <br>![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 - [**Cinema Reservation System**](https://github.com/Ernest-K/cinema-reservation-system) — A comprehensive cinema ticket reservation system built on a microservices architecture. It allows users to browse movies and screenings (with OMDb ratings), select seats with real-time availability, process reservations and (mock) Tpay payments, generate QR code tickets, and receive email notifications. Developed using Java (Spring Boot), Docker (Compose), Kafka, PostgreSQL, Eureka, and Spring Cloud Gateway.
-  <br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+  <br>![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=coffeescript&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
