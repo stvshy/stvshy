@@ -1,21 +1,10 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="100%" />
-  
-  <br>
-  <samp>💻 Mobile / Full-Stack Developer | 🎓 Applied Computer Science Master's Student &nbsp;<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="22px"></samp>
-
-  <br><br><br>
-
-  <b>👇 Click below to visit my Portfolio! 👇</b>
-  <br><br>
-  <a href="https://stvshy.com">
-    <img src="stvshy-button4.svg" width="170" alt="Visit STVSHY Portfolio" />
-  </a>
+  <p><samp>💻 Mobile / Full-Stack Developer</samp></p>
+  <!-- Usunięto pustą linię pod <samp>, żeby grafika była bliżej -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" />
 </div>
 
 <br><br>
-
 
 I graduated in Computer Engineering from Wrocław University of Science and Technology (WUST) 🎓 and I'm currently pursuing my master’s degree in Applied Computer Science at WUST. 💻👨‍🎓 I love coding and designing intuitive applications, but outside of programming, I’m also into travelling 🌍, music production 🎵, sports ⚽🥊 (huge FC Barcelona & MMA fan), and collecting perfumes.
 
@@ -23,11 +12,15 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 * ✉️  You can contact me at [matisp637@gmail.com](mailto:matisp637@gmail.com)
 * ⚡  Fun fact: I have an expensive addiction - I just can’t resist buying more perfumes to expand my collection 🤫
   
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
-</p>
+<br><br>
 
-### 🔭 My Biggest Projects
+<div align="center">
+  <a href="https://stvshy.com"><img src="stvshy-button4.svg" width="150" alt="Visit STVSHY Portfolio" /></a><br>
+  <b>My Portfolio 👆</b><br>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
+</div>
+
+## 🔭 My Biggest Projects
 
 - [**Tripify**](https://github.com/stvshy/tripify) — My most ambitious project to date, a comprehensive travel companion application. Tripify empowers users to visually track and manage their visited countries through an interactive world map and detailed lists, explore rich country profiles packed with information on general facts, weather, travel tips, and safety, and engage with a community by adding friends, managing friend requests, and searching for other users. It also offers personalization features such as custom country rankings, country-specific note-taking, and a light/dark theme system, all supported by secure authentication via email/password (including email verification and password reset) and Facebook login. I am planning to release the application first on the Google Play Store for Android, followed by an iOS version on the App Store. The application is built using React Native with Expo, and utilizes Firebase for its backend services and data management.
   <br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
