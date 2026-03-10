@@ -1,7 +1,7 @@
 <div align="center">
  <div align="center">
-  <img src="https://img.shields.io/badge/MOBILE-4a148c?style=flat&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/FULL--STACK-0277bd?style=flat&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-4a148c?style=flat&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Full--Stack-0277bd?style=flat&logo=skypack&logoColor=white" />
 </div> <br>
  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="630" /> 
 </div>
