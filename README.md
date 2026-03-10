@@ -1,8 +1,6 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <div align="center">
-  <samp>💻 Mobile / Full-Stack Developer</samp><br>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" style="width: 50vw; max-width: 800px;" />
+  <p></p><samp>💻 Mobile / Full-Stack Developer</samp></p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="840" />
 </div>
 
 <br>
