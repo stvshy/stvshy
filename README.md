@@ -1,9 +1,9 @@
 <div align="center">
-  <div align="center">
-  <img src="https://img.shields.io/badge/Mobile-4a148c?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--Stack-0277bd?style=for-the-badge&logo=react&logoColor=white" />
+ <div align="center">
+  <img src="https://img.shields.io/badge/MOBILE-4a148c?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/FULL--STACK-0277bd?style=flat&logo=codeforces&logoColor=white" />
 </div> <br>
- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="630" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="630" /> 
 </div>
 
 <br>
@@ -17,8 +17,8 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 <br>
 
 <div align="center">
-  <p><a href="https://stvshy.com"><img src="stvshy-button4.svg" width="118" alt="Visit STVSHY Portfolio" /></a><br>
-  <samp>My Portfolio 👆</samp></p>
+  <p><a href="https://stvshy.com"><img src="stvshy-button5.svg" width="116" alt="Visit STVSHY Portfolio" /></a><br>
+  <samp>Portfolio 👆</samp></p>
 </div>
 
 ## 🔭 My Biggest Projects
