@@ -1,11 +1,11 @@
 <div align="center">
   <samp>💻 Mobile / Full-Stack Developer</samp><br>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" height="126" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=45&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" height="128" />
 </div>
 
 <br>
 
-I graduated in Computer Engineering from Wrocław University of Science and Technology (WUST) 🎓 and I'm currently pursuing my master’s degree in Applied Computer Science at WUST. 💻👨‍🎓 I love coding and designing intuitive applications, but outside of programming, I’m also into travelling 🌍, music production 🎵, sports ⚽🥊 (huge FC Barcelona & MMA fan), and collecting perfumes.
+I graduated in Computer Engineering from Wrocław University of Science and Technology (WUST) 🎓 and I'm currently pursuing my master’s degree in Applied Computer Science at WUST. 💻👨‍🎓 I love coding and designing intuitive applications, but outside of programming, I’m also into travelling 🌍, music production 🎵 & sports ⚽🥊 (huge FC Barcelona & MMA fan).
 
 * 🌍  I'm based in Wrocław, Poland
 * ✉️  You can contact me at [matisp637@gmail.com](mailto:matisp637@gmail.com)
@@ -14,9 +14,8 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 <br>
 
 <div align="center">
-  <p><a href="https://stvshy.com"><img src="stvshy-button4.svg" width="135" alt="Visit STVSHY Portfolio" /></a><br>
+  <p><a href="https://stvshy.com"><img src="stvshy-button4.svg" width="128" alt="Visit STVSHY Portfolio" /></a><br>
   <samp>My Portfolio 👆</samp></p>
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
 </div>
 
 ## 🔭 My Biggest Projects
