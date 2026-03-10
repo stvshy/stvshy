@@ -1,6 +1,6 @@
 <div align="center">
   <samp>💻 Mobile / Full-Stack Dev</samp> <br>
- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="740" />
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a148c,10:4a148c,100:0277bd&height=150&text=Hi,%20I%20am%20Mateusz&fontSize=40&fontColor=ffffff&stroke=000000&strokeWidth=1" alt="Venom Header" width="700" />
 </div>
 
 <br>
@@ -14,7 +14,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 <br>
 
 <div align="center">
-  <p><a href="https://stvshy.com"><img src="stvshy-button4.svg" width="128" alt="Visit STVSHY Portfolio" /></a><br>
+  <p><a href="https://stvshy.com"><img src="stvshy-button4.svg" width="118" alt="Visit STVSHY Portfolio" /></a><br>
   <samp>My Portfolio 👆</samp></p>
 </div>
 
