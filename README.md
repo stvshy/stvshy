@@ -17,7 +17,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 <br>
 
 <div align="center">
-  <p><a href="https://stvshy.com"><img src="stvshy-button5.svg" width="116" alt="Visit STVSHY Portfolio" /></a><br>
+  <p><a href="https://stvshy.com"><img src="stvshy-button5.svg" width="113" alt="Visit STVSHY Portfolio" /></a><br>
   <samp>Portfolio 👆</samp></p>
 </div>
 
