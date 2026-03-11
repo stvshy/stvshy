@@ -150,10 +150,59 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 
 ## 🏆 Certifications
 
-- [**CCNA: Introduction to Networks**](https://www.credly.com/badges/9719de3d-0a39-41ad-b203-0c2f3cce6ab7/public_url)  
-  *Cisco Networking Academy*
-<br>
-<a href="https://www.credly.com/badges/9719de3d-0a39-41ad-b203-0c2f3cce6ab7" title="CCNA: Introduction to Networks"><img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="80" height="80"></a>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/meta/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/meta/black">
+        <img src="https://cdn.simpleicons.org/meta/black" width="42" alt="Meta Logo" />
+      </picture>
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/account/accomplishments/verify/DCEXTU27C4HO">Programming with JavaScript</a></b>
+    </td>
+    <td align="center" width="70">
+      <a href="meta2.png" target="_blank" title="Click to view full certificate">
+        <img src="meta2.png" alt="JS Certificate" width="58" style="border-radius: 4px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/meta/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/meta/black">
+        <img src="https://cdn.simpleicons.org/meta/black" width="42" alt="Meta Logo" />
+      </picture>
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/account/accomplishments/verify/8OJJV1T21QI5">Introduction to Mobile Development</a></b>
+    </td>
+    <td align="center" width="70">
+      <a href="meta1.png" target="_blank" title="Click to view full certificate">
+        <img src="meta1.png" alt="Mobile Certificate" width="58" style="border-radius: 4px;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cisco/white">
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cisco/black">
+        <img src="https://cdn.simpleicons.org/cisco/black" width="42" alt="Cisco Logo" />
+      </picture>
+    </td>
+    <td>
+      <b><a href="https://www.credly.com/badges/9719de3d-0a39-41ad-b203-0c2f3cce6ab7/linked_in_profile">CCNA: Introduction to Networks</a></b>
+    </td>
+    <td align="center" width="70">
+      <a href="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" target="_blank" title="Click to view full certificate">
+        <img src="https://images.credly.com/size/80x80/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA Thumbnail" width="40" style="border-radius: 4px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
