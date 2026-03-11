@@ -19,7 +19,7 @@ jobs:
           config_timezone: Europe/Warsaw
           
           # --- SZERSZY TRYB WIDOKU ---
-          config_display: columns 
+          config_display: regular 
 
           # --- PODSTAWY (BEZ HEADERÓW/KAFELKÓW) ---
           base: activity, repositories
@@ -49,8 +49,8 @@ jobs:
           
           # --- MAGIA STYLOWANIA (TWOJE KOLORY) ---
           extras_css: |
-            h2, .header-title { color: #8A2BE2 !important; }
-            .field svg { fill: #4169E1 !important; }
+            h2, .header-title { color: #411b89 !important; } 
+            .field svg { fill: #319ef7 !important; } 
             
           # --- MAGIA USUWANIA (WYCINAMY ŚMIECI) ---
           extras_js: |
