@@ -75,31 +75,25 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://github.com/stvshy/stvshy/blob/main/vhdl-code-file-icon.png?raw=true" width="40" alt="VHDL" title="VHDL" />
 </div>
 
-<br>
-
 ### Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
-  <img src="https://github.com/stvshy/stvshy/blob/main/React.png?raw=true" width="41" alt="React" title="React" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/React.png?raw=true" width="40" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" alt="Vite" title="Vite" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/black"><img src="https://cdn.simpleicons.org/nextdotjs/black" width="35" alt="Next.js" title="Next.js" /></picture>
+  <img src="flask.png" width="40" alt="Flask" title="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" width="45" alt="OpenGL" title="OpenGL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="42" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" title="TailwindCSS" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/flask/black"><img src="https://cdn.simpleicons.org/flask/black" width="35" alt="Flask" title="Flask" /></picture>
+  <img src="next-js.png" width="41" alt="Next.js" title="Next.js" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="38" alt="LLM APIs" title="LLM APIs" style="transform: translateY(-2px);"/>
 </div>
 
-<br>
-
 ### Mobile Development
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
-  <img src="https://github.com/stvshy/stvshy/blob/main/React-Native2.png?raw=true" width="43" alt="React Native" title="React Native" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/expo/black"><img src="https://cdn.simpleicons.org/expo/black" width="35" alt="Expo" title="Expo" /></picture>
+  <img src="https://github.com/stvshy/stvshy/blob/main/React-Native2.png?raw=true" width="41" alt="React Native" title="React Native" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/expo/black"><img src="https://cdn.simpleicons.org/expo/black" width="34" alt="Expo" title="Expo" /></picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" title="Android Studio" />
 </div>
-
-<br>
 
 ### Databases, Cloud & DevOps
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
@@ -113,10 +107,8 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="35" alt="Terraform" title="Terraform" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" alt="Linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git" title="Git" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubactions/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/githubactions/2088FF"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="35" alt="GitHub Actions" title="GitHub Actions" /></picture>
+  <img src="github-actions.png" width="35" alt="GitHub Actions" title="GitHub Actions" />
 </div>
-
-<br>
 
 ### IDEs & Development Tools
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
@@ -129,11 +121,9 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="38" alt="Jupyter Notebook" title="Jupyter Notebook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" alt="Godot Engine" title="Godot Engine" />
   <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" width="32" alt="Xilinx" title="Xilinx" style="margin-bottom: 40px;"/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cursor/black"><img src="https://cdn.simpleicons.org/cursor/black" width="32" alt="Cursor" title="Cursor" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubcopilot/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/githubcopilot/black"><img src="https://cdn.simpleicons.org/githubcopilot/black" width="35" alt="GitHub Copilot" title="GitHub Copilot" /></picture>
+  <img src="cursor-ai.svg" width="38" alt="Cursor" title="Cursor" />
+  <img src="github-copilot.png" width="37" alt="GitHub Copilot" title="GitHub Copilot" />
 </div>
-
-<br>
 
 ### Testing, Analysis & Modeling Tools
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
@@ -143,8 +133,6 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://github.com/stvshy/stvshy/blob/main/Visual%20Paradigm.png?raw=true" width="33" alt="Visual Paradigm" title="Visual Paradigm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="40" alt="JUnit" title="JUnit" />
 </div>
-
-<br>
 
 ### Design & Other Software
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
