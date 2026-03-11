@@ -18,49 +18,51 @@ jobs:
           template: classic
           config_timezone: Europe/Warsaw
 
-          # --- PODSTAWOWE STATYSTYKI ---
-          # Włączamy activity z powrotem, żeby mieć licznik commitów
-          base: header, activity, repositories, community
+          # --- 1. PODSTAWY ---
+          # Zostawiamy header, activity i repositories. Wywalamy community!
+          base: header, activity, repositories
           base_indepth: yes
           
-          # --- LINIE KODU ---
+          # --- 2. LINIE KODU (ALL-TIME) ---
           plugin_lines: yes
-          plugin_lines_history_limit: 0
+          plugin_lines_history_limit: 0 # 0 = statystyki all-time
           plugin_lines_repositories_limit: 100
-
-          # --- JĘZYKI (UKŁAD 16 JĘZYKÓW) ---
+          plugin_lines_sections: base
+          
+          # --- 3. JĘZYKI (16 JĘZYKÓW, ALL-TIME) ---
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_limit: 16
-          plugin_languages_recent_load: 1000
-          plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
           
-          # --- CHIRURGICZNE CIĘCIE (CSS) ---
-          # Tutaj zostawiamy tylko to, co chcesz widzieć
-          body_style: |
-            /* Ukrywamy nagłówek i social info */
+          # --- 4. SKYLINE (OBECNY ROK - 2026) ---
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          
+          # --- 5. CHIRURGICZNE CZYSZCZENIE I KOLORY (CSS) ---
+          extra_css: |
+            /* Kolory: Fiolet i Niebieski */
+            :root { --color-accent-fg: #8A2BE2 !important; }
+            h2, .header-title, .field svg { color: #8A2BE2 !important; fill: #4169E1 !important; }
+            .header-name, .header-description { color: #8A2BE2 !important; }
+
+            /* Ukrywanie: Imię i followersi z nagłówka */
             .header-name, .follow-info, .notices, .introduction { display: none !important; }
-            
-            /* Ukrywamy wykres aktywności (te kropki/linie), zostawiając same liczby */
-            .activity-calendar, svg[height="34"] { display: none !important; }
-            
-            /* Filtrowanie sekcji Activity - zostawiamy Commits i Pull requests opened */
-            div[data-lines*="reviewed"], 
-            div[data-lines*="Issues opened"], 
-            div[data-lines*="Issue comments"] { display: none !important; }
-            
-            /* Filtrowanie sekcji Repositories - zostawiamy rozmiar i linie kodu */
-            div[data-lines*="license"], 
-            div[data-lines*="releases"], 
-            div[data-lines*="packages"] { display: none !important; }
-            
-            /* Filtrowanie sekcji Community - ukrywamy wszystko o co prosiłeś */
-            .community-stats .field, 
-            div[data-lines*="Member of"], 
-            div[data-lines*="Sponsoring"], 
-            div[data-lines*="Starred"], 
-            div[data-lines*="Watching"],
-            div[data-lines*="Watchers"],
-            div[data-lines*="Forkers"],
-            div[data-lines*="Stargazer"] { display: none !important; }
+
+            /* Ukrywanie: Zielone kwadraciki aktywności (zostają same liczby) */
+            .activity-calendar, svg[height="34"], .calendar { display: none !important; }
+
+            /* Ukrywanie z Activity: PRs reviewed, Issues, Comments */
+            .field:has(svg.octicon-check-circle), 
+            .field:has(svg.octicon-issue-opened), 
+            .field:has(svg.octicon-comment-discussion) { display: none !important; }
+
+            /* Ukrywanie z Repositories: License, Releases, Packages, Forkers */
+            .field:has(svg.octicon-law),
+            .field:has(svg.octicon-tag),
+            .field:has(svg.octicon-package),
+            .field:has(svg.octicon-repo-forked) { display: none !important; }
