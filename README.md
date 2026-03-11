@@ -62,12 +62,13 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 ### Languages & Core Technologies
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="42" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" alt="C" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" alt="CSS3" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
@@ -77,15 +78,15 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 
 ### Frameworks & Libraries
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
-  <img src="https://github.com/stvshy/stvshy/blob/main/React.png?raw=true" width="40" alt="React" title="React" />
+  <img src="https://github.com/stvshy/stvshy/blob/main/React.png?raw=true" width="41" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" alt="Vite" title="Vite" />
-  <img src="flask.png" width="40" alt="Flask" title="Flask" />
+  <img src="next-js.png" width="35" alt="Next.js" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" width="45" alt="OpenGL" title="OpenGL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="42" alt="Node.js" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="next-js.png" width="41" alt="Next.js" title="Next.js" />
+  <img src="flask.png" width="40" alt="Flask" title="Flask" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="38" alt="LLM APIs" title="LLM APIs" style="transform: translateY(-2px);"/>
+  <img src="https://github.com/stvshy/stvshy/blob/main/JavaFX.png?raw=true" width="24" alt="JavaFX" title="JavaFX" />
 </div>
 
 ### Mobile Development
@@ -141,7 +142,6 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://github.com/stvshy/stvshy/blob/main/Lightroom.png?raw=true" width="35" alt="Lightroom" title="Lightroom" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="35" alt="MATLAB" title="MATLAB" />
   <img src="https://github.com/stvshy/stvshy/blob/main/virtualbox.png?raw=true" width="45" alt="VirtualBox" title="VirtualBox" />
-  <img src="https://github.com/stvshy/stvshy/blob/main/JavaFX.png?raw=true" width="24" alt="JavaFX" title="JavaFX" />
 </div>
 
 <p align="center">
