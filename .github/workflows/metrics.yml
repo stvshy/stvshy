@@ -1,11 +1,12 @@
 name: Metrics
 on:
-  # Aktualizuje się codziennie o północy
   schedule: [{cron: "0 0 * * *"}]
-  # Pozwala na ręczne wymuszenie aktualizacji z poziomu zakładki "Actions"
   workflow_dispatch:
-  # Aktualizuje się przy każdym pushu na główną gałąź
   push: {branches: ["master", "main"]}
+
+# --- TUTAJ SĄ UPRAWNIENIA ---
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -16,20 +17,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: stvshy
           template: classic
-          # Podstawowe statystyki: commity all-time, PRs, issues itp.
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
           
-          # Plugin 1: Linijki kodu
+          # Plugin 1: Linijki kodu (ALL-TIME)
           plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
+          plugin_lines_history_limit: 0
+          plugin_lines_repositories_limit: 100
           plugin_lines_sections: base
           
-          # Plugin 2: Top języki (dynamiczny pasek)
+          # Plugin 2: Języki (Więcej języków, widok z LINIJKAMI i procentami)
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 15
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines
+          # Zmienione na linijki i procenty!
+          plugin_languages_details: lines, percentage
