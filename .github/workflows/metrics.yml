@@ -19,7 +19,7 @@ jobs:
           config_timezone: Europe/Warsaw
           
           # --- SZERSZY TRYB WIDOKU ---
-          config_display: large 
+          config_display: columns 
 
           # --- PODSTAWY (BEZ HEADERÓW/KAFELKÓW) ---
           base: activity, repositories
@@ -63,7 +63,8 @@ jobs:
                 text.includes('license') || 
                 text.includes('Releases') || 
                 text.includes('Packages') || 
-                text.includes('Forkers')
+                text.includes('Forkers') ||
+                text.includes('Sponsors')
               ) {
                 field.remove();
               }
