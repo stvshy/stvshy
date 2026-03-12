@@ -40,9 +40,9 @@ jobs:
           # Zwiększamy limity czasowe, żeby szukało jak najgłębiej (All-Time):
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_ignored: "jupyter notebook"
-          # Podmiana koloru 1. języka (indeks 0) na błękitny itd.
-          plugin_languages_colors: "0:#3d5fc0, 1:#8A2BE2, 2:#F39C12, 3:#2ECC71, 4:#E74C3C, 5:#F1C40F, 6:#FF69B4, 7:#42b5fc"          
+          plugin_languages_ignored: "jupyter notebook"       
+          # Podmiana koloru 1. języka (indeks 0) na błękitny itd. 3 na ostatnie, ostatnie na 1, 1 na 3 
+          plugin_languages_colors: "0:#42b5fc, 1:#8A2BE2, 2:#3d5fc0, 3:#2ECC71, 4:#E74C3C, 5:#F1C40F, 6:#FF69B4, 7:#F39C12"          
           # Customowe nazwy języków
           plugin_languages_aliases: "TSX:TypeScript"
           
