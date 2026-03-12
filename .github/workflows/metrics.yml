@@ -40,11 +40,11 @@ jobs:
           # Zwiększamy limity czasowe, żeby szukało jak najgłębiej (All-Time):
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_ignored: jupyter notebook
+          plugin_languages_ignored: "jupyter notebook"
           # Podmiana koloru 1. języka (indeks 0) na błękitny
           plugin_languages_colors: "0:#87CEFA, 1:#8A2BE2, 2:#F39C12, 3:#2ECC71, 4:#E74C3C, 5:#F1C40F, 6:#FF69B4, 7:#1ABC9C"          
           # Customowe nazwy języków
-          plugin_languages_aliases: "Jupyter Notebook:Jupyter, TSX:TypeScript"
+          plugin_languages_aliases: "TSX:TypeScript"
           
           # --- MAGIA STYLOWANIA (TWOJE KOLORY) ---
           extras_css: |
