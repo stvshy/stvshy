@@ -8,11 +8,13 @@
 
 <br>
 
-I graduated in Computer Engineering from Wrocław University of Science and Technology (WUST) 🎓 and I'm currently pursuing my master’s degree in Applied Computer Science at WUST. 💻👨‍🎓 I love coding and designing intuitive applications, but outside of programming, I’m also into travelling 🌍, music production 🎵 & sports ⚽🥊 (huge FC Barcelona & MMA fan).
+I graduated in Computer Engineering from Wrocław University of Science and Technology 🎓 and I'm currently pursuing my master’s degree in Applied Computer Science there. 💻👨‍🎓 
 
-* 🌍  I'm based in Wrocław, Poland
-* ✉️  You can contact me at [matisp637@gmail.com](mailto:matisp637@gmail.com)
-* ⚡  Fun fact: I have an expensive addiction - I just can’t resist buying more perfumes to expand my collection 🤫
+With **over 9 years of programming experience**, I focus on writing clean code and designing intuitive, market-ready applications. Outside of the IDE, I’m heavily into travelling 🌍, music production 🎵, and sports ⚽🥊 (huge FC Barcelona & MMA fan).
+
+* 🌍  **Based in:** Wrocław, Poland
+* ✉️  **Contact:** [matisp637@gmail.com](mailto:matisp637@gmail.com)
+* ⚡  **Fun fact:** I have an expensive addiction — I just can’t resist buying more perfumes to expand my collection 🤫
  
 <br>
 
