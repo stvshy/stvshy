@@ -221,32 +221,11 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   </picture>
 </div>
 
-<h3 align="center"><b>Socials</b></h2>
+<h3 align="center"><b>Socials</b></h3>
 
 <div align="center">
-  <a href="https://discord.com/users/stvshy" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord" />
-  </a>
-  &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.github.com/stvshy" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/black">
-      <img src="https://cdn.simpleicons.org/github/black" width="32" alt="GitHub" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="http://www.instagram.com/stvshy" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mateusz-staszk%c3%b3w" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/mateusz-staszk%c3%b3w" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/stvshy" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/stvshy" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/discord/5865F2" width="34" alt="Discord" /></a>
+</div>
 
   <a href="https://stvshy.com" target="_blank" rel="noreferrer">
     <img src="stvshy-banner2.svg" alt="STVSHY Footer Banner" width="100%" />
