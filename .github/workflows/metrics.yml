@@ -18,7 +18,7 @@ jobs:
           template: classic
           config_timezone: Europe/Warsaw
           
-          # --- SZERSZY TRYB WIDOKU ---
+          # --- TRYB WIDOKU ---
           config_display: regular 
 
           # --- PODSTAWY (BEZ HEADERÓW/KAFELKÓW) ---
@@ -41,17 +41,17 @@ jobs:
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
           plugin_languages_ignored: "jupyter notebook"
-          # Podmiana koloru 1. języka (indeks 0) na błękitny
-          plugin_languages_colors: "0:#87CEFA, 1:#8A2BE2, 2:#F39C12, 3:#2ECC71, 4:#E74C3C, 5:#F1C40F, 6:#FF69B4, 7:#1ABC9C"          
+          # Podmiana koloru 1. języka (indeks 0) na błękitny itd.
+          plugin_languages_colors: "0:#3d5fc0, 1:#8A2BE2, 2:#F39C12, 3:#2ECC71, 4:#E74C3C, 5:#F1C40F, 6:#FF69B4, 7:#42b5fc"          
           # Customowe nazwy języków
           plugin_languages_aliases: "TSX:TypeScript"
           
-          # --- MAGIA STYLOWANIA (TWOJE KOLORY) ---
+          # --- STYLOWANIE (KOLORY) ---
           extras_css: |
             h2, .header-title { color: #319ef7 !important; } 
             .field svg { fill: #6b26b5 !important; } 
             
-          # --- MAGIA USUWANIA (WYCINAMY ŚMIECI) ---
+          # --- WYCINAMY ŚMIECI ---
           extras_js: |
             document.querySelectorAll('.field').forEach(field => {
               const text = field.innerText || "";
