@@ -22,7 +22,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 </div>
 <br>
 
-<h2 align="center">🔭 My Biggest Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 - [**Tripify**](https://github.com/stvshy/tripify) — My most ambitious project to date, a comprehensive travel companion application currently in active development, aimed at delivering a meticulously polished, market-ready product before launch. The core concept empowers users to track their travel progress, displayed dynamically on an **interactive world map**. Users can create custom rankings for visited and wishlist countries, explore rich **country profiles** with key information, and share their personal travel maps on social media. It features a dedicated **social module** allowing users to add friends, view their profiles, travel achievements, and compare rankings. The platform is supported by **secure authentication via Email & Password (with planned social media logins)**. Built using React Native (Expo) and Firebase, it is targeted for an initial release on the **Google Play Store**, followed by an iOS version.
 
