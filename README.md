@@ -20,8 +20,9 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <p><a href="https://stvshy.com"><img src="stvshy-button5.svg" width="113" alt="Visit STVSHY Portfolio" /></a><br>
   <samp>Portfolio 👆</samp></p>
 </div>
+<br>
 
-## 🔭 My Biggest Projects
+<h2 align="center">🔭 My Biggest Projects</h2>
 
 - [**Tripify**](https://github.com/stvshy/tripify) — My most ambitious project to date, a comprehensive travel companion application currently in active development, aimed at delivering a meticulously polished, market-ready product before launch. The core concept empowers users to track their travel progress, displayed dynamically on an **interactive world map**. Users can create custom rankings for visited and wishlist countries, explore rich **country profiles** with key information, and share their personal travel maps on social media. It features a dedicated **social module** allowing users to add friends, view their profiles, travel achievements, and compare rankings. The platform is supported by **secure authentication via Email & Password (with planned social media logins)**. Built using React Native (Expo) and Firebase, it is targeted for an initial release on the **Google Play Store**, followed by an iOS version.
 
@@ -57,10 +58,10 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
 </p>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-### Languages & Core Technologies
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">Languages & Core Technologies</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" title="JavaScript" />
@@ -74,10 +75,10 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
   <img src="https://github.com/stvshy/stvshy/blob/main/assembler.png?raw=true" width="45" alt="Assembly Language" title="Assembly Language" />
   <img src="https://github.com/stvshy/stvshy/blob/main/vhdl-code-file-icon.png?raw=true" width="40" alt="VHDL" title="VHDL" />
-</div>
+</p>
 
-### Frameworks & Libraries
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
   <img src="https://github.com/stvshy/stvshy/blob/main/React.png?raw=true" width="41" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="35" alt="Vite" title="Vite" />
@@ -87,17 +88,17 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="flask.png" width="40" alt="Flask" title="Flask" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="38" alt="LLM APIs" title="LLM APIs" style="transform: translateY(-2px);"/>
   <img src="https://github.com/stvshy/stvshy/blob/main/JavaFX.png?raw=true" width="24" alt="JavaFX" title="JavaFX" />
-</div>
+</p>
 
-### Mobile Development
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">Mobile Development</h3>
+<p align="center">
   <img src="https://github.com/stvshy/stvshy/blob/main/React-Native2.png?raw=true" width="41" alt="React Native" title="React Native" />
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/expo/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/expo/black"><img src="https://cdn.simpleicons.org/expo/black" width="34" alt="Expo" title="Expo" /></picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" title="Android Studio" />
-</div>
+</p>
 
-### Databases, Cloud & DevOps
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">Databases, Cloud & DevOps</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://github.com/stvshy/stvshy/blob/main/Oracle SQL.png?raw=true" width="35" alt="SQL" title="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="35" alt="Firebase" title="Firebase" />
@@ -109,10 +110,10 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" alt="Linux" title="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" alt="Git" title="Git" />
   <img src="github-actions.png" width="35" alt="GitHub Actions" title="GitHub Actions" />
-</div>
+</p>
 
-### IDEs & Development Tools
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">IDEs & Development Tools</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" title="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" alt="CLion" title="CLion" />
@@ -121,37 +122,37 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://github.com/stvshy/stvshy/blob/main/keiluvision5.png?raw=true" width="37" alt="Keil µVision 5" title="Keil µVision 5" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="38" alt="Jupyter Notebook" title="Jupyter Notebook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" alt="Godot Engine" title="Godot Engine" />
-  <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" width="32" alt="Xilinx" title="Xilinx" style="margin-bottom: 40px;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/xilinx.svg" width="32" alt="Xilinx" title="Xilinx" />
   <img src="cursor-ai.svg" width="38" alt="Cursor" title="Cursor" />
   <img src="github-copilot.png" width="37" alt="GitHub Copilot" title="GitHub Copilot" />
-</div>
+</p>
 
-### Testing, Analysis & Modeling Tools
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">Testing, Analysis & Modeling Tools</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="35" alt="Selenium" title="Selenium" />
   <img src="https://github.com/stvshy/stvshy/blob/main/weka.png?raw=true" width="35" alt="Weka" title="Weka" />
   <img src="https://github.com/stvshy/stvshy/blob/main/FitNesse2.png?raw=true" width="32" alt="FitNesse" title="FitNesse" />
   <img src="https://github.com/stvshy/stvshy/blob/main/Visual%20Paradigm.png?raw=true" width="33" alt="Visual Paradigm" title="Visual Paradigm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" width="40" alt="JUnit" title="JUnit" />
-</div>
+</p>
 
-### Design & Other Software
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 8px;">
+<h3 align="center">Design & Other Software</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="30" alt="Figma" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" width="35" alt="Photoshop" title="Photoshop" />
   <img src="https://github.com/stvshy/stvshy/blob/main/Lightroom.png?raw=true" width="35" alt="Lightroom" title="Lightroom" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="35" alt="MATLAB" title="MATLAB" />
   <img src="https://github.com/stvshy/stvshy/blob/main/virtualbox.png?raw=true" width="45" alt="VirtualBox" title="VirtualBox" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
 </p>
 
-## 🏆 Certifications
+<h2 align="center">🏆 Certifications</h2>
 
-<table>
-  <tr>
+<table align="center">
+ <tr>
     <td align="center" width="60">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/meta/white">
@@ -208,7 +209,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
 </p>
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/stvshy/stvshy/output-metrics/github-metrics.svg" alt="stvshy's GitHub Metrics" width="520" /><br><img src="https://github-readme-streak-stats.herokuapp.com/?user=stvshy&hide_border=true&background=00000000&ring=6b26b5&fire=42b5fc&currStreakNum=6b26b5&sideNums=42b5fc&currStreakLabel=42b5fc&sideLabels=42b5fc&dates=6b26b5" alt="GitHub Streak" width="530" /><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake-light.svg" /><img alt="Snake animation" src="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake-dark.svg" width="637" /></picture>
@@ -218,7 +219,7 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
 </p>
 
-## 🌐 Socials
+<h3 align="center"><b>Socials</b></h2>
 
 <div align="center">
   <a href="https://discord.com/users/stvshy" target="_blank" rel="noreferrer">
