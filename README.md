@@ -211,14 +211,18 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" alt="stvshy's GitHub Metrics" width="600" />
+  <img src="github-metrics.svg" alt="stvshy's GitHub Metrics" width="530" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake.svg" alt="Snake animation" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stvshy&hide_border=true&background=00000000&ring=6b26b5&fire=42b5fc&currStreakNum=6b26b5&sideNums=42b5fc&currStreakLabel=42b5fc&sideLabels=42b5fc&dates=6b26b5" alt="GitHub Streak" width="600" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stvshy&hide_border=true&background=00000000&ring=6b26b5&fire=42b5fc&currStreakNum=6b26b5&sideNums=42b5fc&currStreakLabel=42b5fc&sideLabels=42b5fc&dates=6b26b5" alt="GitHub Streak" width="530" />
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake-dark.svg" width="600" />
+  </picture>
 </div>
 
 <p align="center">
