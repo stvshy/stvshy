@@ -210,14 +210,16 @@ I graduated in Computer Engineering from Wrocław University of Science and Tech
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stvshy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="stvshy's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stvshy&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <img src="github-metrics.svg" alt="stvshy's GitHub Metrics" width="600" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stvshy&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" width="50%" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stvshy/stvshy/output-snake/github-snake.svg" alt="Snake animation" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stvshy&hide_border=true&background=00000000&ring=6b26b5&fire=42b5fc&currStreakNum=6b26b5&sideNums=42b5fc&currStreakLabel=42b5fc&sideLabels=42b5fc&dates=6b26b5" alt="GitHub Streak" width="600" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/section-divider.gif" width="100%">
