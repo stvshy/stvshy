@@ -21,7 +21,7 @@ h3.field { color: #42b5fc !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            744 Commits
+                            770 Commits
                         </div>
                         
                         <div class="field">
@@ -59,7 +59,7 @@ h3.field { color: #42b5fc !important; }
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.19m added, 125k removed
+                                    947k added, 5.61k removed
                                 </div>
                             </section>
                             <section>
@@ -92,20 +92,20 @@ h3.field { color: #42b5fc !important; }
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 7.36mb of code in 1755 edited files across 415 commits</small>
+                <small>estimation from 7.43mb of code in 1801 edited files across 427 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.93177501003632" height="8" fill="#42b5fc"/>
-                    <rect mask="url(#languages-bar)" x="195.93177501003632" y="0" width="77.73526618296468" height="8" fill="#8a2be2"/>
-                    <rect mask="url(#languages-bar)" x="273.667041193001" y="0" width="54.08081935591262" height="8" fill="#3d5fc0"/>
-                    <rect mask="url(#languages-bar)" x="327.7478605489136" y="0" width="44.13631289839321" height="8" fill="#f39c12"/>
-                    <rect mask="url(#languages-bar)" x="371.8841734473068" y="0" width="31.46569534608192" height="8" fill="#e74c3c"/>
-                    <rect mask="url(#languages-bar)" x="403.34986879338874" y="0" width="29.200129248303618" height="8" fill="#f1c40f"/>
-                    <rect mask="url(#languages-bar)" x="432.54999804169233" y="0" width="13.763989660135712" height="8" fill="#ff69b4"/>
-                    <rect mask="url(#languages-bar)" x="446.313987701828" y="0" width="13.68601229817192" height="8" fill="#2ecc71"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.7847386979997" height="8" fill="#42b5fc"/>
+                    <rect mask="url(#languages-bar)" x="206.7847386979997" y="0" width="74.54041749872806" height="8" fill="#8a2be2"/>
+                    <rect mask="url(#languages-bar)" x="281.32515619672773" y="0" width="51.85814690561182" height="8" fill="#3d5fc0"/>
+                    <rect mask="url(#languages-bar)" x="333.18330310233955" y="0" width="42.32235061184753" height="8" fill="#f39c12"/>
+                    <rect mask="url(#languages-bar)" x="375.50565371418713" y="0" width="30.17248390793738" height="8" fill="#e74c3c"/>
+                    <rect mask="url(#languages-bar)" x="405.6781376221245" y="0" width="28.000030514623255" height="8" fill="#f1c40f"/>
+                    <rect mask="url(#languages-bar)" x="433.67816813674773" y="0" width="13.19830221330778" height="8" fill="#ff69b4"/>
+                    <rect mask="url(#languages-bar)" x="446.8764703500555" y="0" width="13.123529649944457" height="8" fill="#2ecc71"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -117,8 +117,8 @@ h3.field { color: #42b5fc !important; }
                                 TypeScript
                             </div>
                             <small>
-                                <div>18.1k lines</div>
-                                <div>42.59%</div>
+                                <div>19.8k lines</div>
+                                <div>44.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -130,7 +130,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>4.91k lines</div>
-                                <div>11.76%</div>
+                                <div>11.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>2.27k lines</div>
-                                <div>6.84%</div>
+                                <div>6.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -154,7 +154,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>756 lines</div>
-                                <div>2.99%</div>
+                                <div>2.87%</div>
                             </small>
                         </div>
                     </section>
@@ -168,7 +168,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>5.81k lines</div>
-                                <div>16.9%</div>
+                                <div>16.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -180,7 +180,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>3.35k lines</div>
-                                <div>9.59%</div>
+                                <div>9.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,7 +192,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>2.94k lines</div>
-                                <div>6.35%</div>
+                                <div>6.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -204,7 +204,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>2.01k lines</div>
-                                <div>2.98%</div>
+                                <div>2.85%</div>
                             </small>
                         </div>
                     </section>
