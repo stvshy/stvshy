@@ -19,7 +19,7 @@ With **over 9 years of programming experience**, I focus on writing clean code a
 <br>
 
 <div align="center">
-  <p><a href="https://stvshy.com"><img src="stvshy-button5.svg" width="113" alt="Visit STVSHY Portfolio" /></a><br>
+  <p><a href="https://stvshy.com/dev"><img src="stvshy-button5.svg" width="113" alt="Visit STVSHY Portfolio" /></a><br>
   <samp>Portfolio 👆</samp></p>
 </div>
 <br>
