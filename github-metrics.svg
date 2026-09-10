@@ -21,7 +21,7 @@ h3.field { color: #42b5fc !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1189 Commits
+                            1196 Commits
                         </div>
                         
                         <div class="field">
@@ -92,20 +92,20 @@ h3.field { color: #42b5fc !important; }
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 9.58mb of code in 2348 edited files across 808 commits</small>
+                <small>estimation from 9.59mb of code in 2354 edited files across 811 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.4928872785387" height="8" fill="#42b5fc"/>
-                    <rect mask="url(#languages-bar)" x="275.4928872785387" y="0" width="39.76101507851057" height="8" fill="#8a2be2"/>
-                    <rect mask="url(#languages-bar)" x="315.2539023570493" y="0" width="36.3315571589068" height="8" fill="#3d5fc0"/>
-                    <rect mask="url(#languages-bar)" x="351.58545951595613" y="0" width="32.4496674340976" height="8" fill="#f39c12"/>
-                    <rect mask="url(#languages-bar)" x="384.0351269500537" y="0" width="23.13404275326683" height="8" fill="#e74c3c"/>
-                    <rect mask="url(#languages-bar)" x="407.16916970332056" y="0" width="21.468365183141835" height="8" fill="#f1c40f"/>
-                    <rect mask="url(#languages-bar)" x="428.6375348864624" y="0" width="15.824350851965319" height="8" fill="#ff69b4"/>
-                    <rect mask="url(#languages-bar)" x="444.4618857384277" y="0" width="15.538114261572318" height="8" fill="#2ecc71"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="275.6658347860908" height="8" fill="#42b5fc"/>
+                    <rect mask="url(#languages-bar)" x="275.6658347860908" y="0" width="39.71612693302125" height="8" fill="#8a2be2"/>
+                    <rect mask="url(#languages-bar)" x="315.381961719112" y="0" width="36.290540695409014" height="8" fill="#3d5fc0"/>
+                    <rect mask="url(#languages-bar)" x="351.672502414521" y="0" width="32.413033424880645" height="8" fill="#f39c12"/>
+                    <rect mask="url(#languages-bar)" x="384.08553583940164" y="0" width="23.1079256062369" height="8" fill="#e74c3c"/>
+                    <rect mask="url(#languages-bar)" x="407.19346144563855" y="0" width="21.44412850060605" height="8" fill="#f1c40f"/>
+                    <rect mask="url(#languages-bar)" x="428.6375899462446" y="0" width="15.80648597195875" height="8" fill="#ff69b4"/>
+                    <rect mask="url(#languages-bar)" x="444.44407591820334" y="0" width="15.555924081796647" height="8" fill="#2ecc71"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -117,8 +117,8 @@ h3.field { color: #42b5fc !important; }
                                 TypeScript
                             </div>
                             <small>
-                                <div>30.8k lines</div>
-                                <div>59.89%</div>
+                                <div>30.9k lines</div>
+                                <div>59.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -130,7 +130,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>5.24k lines</div>
-                                <div>7.9%</div>
+                                <div>7.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -142,7 +142,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>2.27k lines</div>
-                                <div>5.03%</div>
+                                <div>5.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -168,7 +168,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>4.91k lines</div>
-                                <div>8.64%</div>
+                                <div>8.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -192,7 +192,7 @@ h3.field { color: #42b5fc !important; }
                             </div>
                             <small>
                                 <div>2.94k lines</div>
-                                <div>4.67%</div>
+                                <div>4.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -203,7 +203,7 @@ h3.field { color: #42b5fc !important; }
                                 CSS
                             </div>
                             <small>
-                                <div>3.25k lines</div>
+                                <div>3.26k lines</div>
                                 <div>3.38%</div>
                             </small>
                         </div>
